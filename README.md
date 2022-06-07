@@ -1,1 +1,2 @@
-# Ml-Predict-California-Housing-Price
+# Prediction California Housing Price
+In this model I use Linear Regression.
